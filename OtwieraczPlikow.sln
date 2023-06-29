@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OtwieraczPlikow", "OtwieraczPlikow\OtwieraczPlikow.csproj", "{94705D33-62AA-4DB8-A0C1-EF89285E8F3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94705D33-62AA-4DB8-A0C1-EF89285E8F3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94705D33-62AA-4DB8-A0C1-EF89285E8F3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94705D33-62AA-4DB8-A0C1-EF89285E8F3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94705D33-62AA-4DB8-A0C1-EF89285E8F3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BE51F3F-6692-46A6-A841-0E4515C9F16D}
+	EndGlobalSection
+EndGlobal

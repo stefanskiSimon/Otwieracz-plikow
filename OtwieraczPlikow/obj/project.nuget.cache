@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "skPrHDIcOgkb8wPSzf74uwGUCSlhPgFeHCmrpwMoXxSiefO+lcshlv8OCqwuHcSGJq2scvjFcQ+GPWPY7qaRaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SEBASTIAN\\Desktop\\tree_window\\OtwieraczPlikow\\OtwieraczPlikow.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SEBASTIAN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\SEBASTIAN\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\SEBASTIAN\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\SEBASTIAN\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

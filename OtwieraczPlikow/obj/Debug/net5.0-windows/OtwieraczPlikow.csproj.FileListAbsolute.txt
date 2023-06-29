@@ -1,0 +1,95 @@
+C:\Users\student.KIOLAB.000\Source\Repos\OtwieraczPlikow\OtwieraczPlikow\bin\Debug\net5.0-windows\OtwieraczPlikow.exe
+C:\Users\student.KIOLAB.000\Source\Repos\OtwieraczPlikow\OtwieraczPlikow\bin\Debug\net5.0-windows\OtwieraczPlikow.deps.json
+C:\Users\student.KIOLAB.000\Source\Repos\OtwieraczPlikow\OtwieraczPlikow\bin\Debug\net5.0-windows\OtwieraczPlikow.runtimeconfig.json
+C:\Users\student.KIOLAB.000\Source\Repos\OtwieraczPlikow\OtwieraczPlikow\bin\Debug\net5.0-windows\OtwieraczPlikow.runtimeconfig.dev.json
+C:\Users\student.KIOLAB.000\Source\Repos\OtwieraczPlikow\OtwieraczPlikow\bin\Debug\net5.0-windows\OtwieraczPlikow.dll
+C:\Users\student.KIOLAB.000\Source\Repos\OtwieraczPlikow\OtwieraczPlikow\bin\Debug\net5.0-windows\ref\OtwieraczPlikow.dll
+C:\Users\student.KIOLAB.000\Source\Repos\OtwieraczPlikow\OtwieraczPlikow\bin\Debug\net5.0-windows\OtwieraczPlikow.pdb
+C:\Users\student.KIOLAB.000\Source\Repos\OtwieraczPlikow\OtwieraczPlikow\obj\Debug\net5.0-windows\OtwieraczPlikow.csproj.AssemblyReference.cache
+C:\Users\student.KIOLAB.000\Source\Repos\OtwieraczPlikow\OtwieraczPlikow\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\student.KIOLAB.000\Source\Repos\OtwieraczPlikow\OtwieraczPlikow\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\student.KIOLAB.000\Source\Repos\OtwieraczPlikow\OtwieraczPlikow\obj\Debug\net5.0-windows\OtwieraczPlikow_MarkupCompile.cache
+C:\Users\student.KIOLAB.000\Source\Repos\OtwieraczPlikow\OtwieraczPlikow\obj\Debug\net5.0-windows\OtwieraczPlikow_MarkupCompile.lref
+C:\Users\student.KIOLAB.000\Source\Repos\OtwieraczPlikow\OtwieraczPlikow\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\student.KIOLAB.000\Source\Repos\OtwieraczPlikow\OtwieraczPlikow\obj\Debug\net5.0-windows\OtwieraczPlikow.g.resources
+C:\Users\student.KIOLAB.000\Source\Repos\OtwieraczPlikow\OtwieraczPlikow\obj\Debug\net5.0-windows\OtwieraczPlikow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student.KIOLAB.000\Source\Repos\OtwieraczPlikow\OtwieraczPlikow\obj\Debug\net5.0-windows\OtwieraczPlikow.AssemblyInfoInputs.cache
+C:\Users\student.KIOLAB.000\Source\Repos\OtwieraczPlikow\OtwieraczPlikow\obj\Debug\net5.0-windows\OtwieraczPlikow.AssemblyInfo.cs
+C:\Users\student.KIOLAB.000\Source\Repos\OtwieraczPlikow\OtwieraczPlikow\obj\Debug\net5.0-windows\OtwieraczPlikow.csproj.CoreCompileInputs.cache
+C:\Users\student.KIOLAB.000\Source\Repos\OtwieraczPlikow\OtwieraczPlikow\obj\Debug\net5.0-windows\OtwieraczPlikow.dll
+C:\Users\student.KIOLAB.000\Source\Repos\OtwieraczPlikow\OtwieraczPlikow\obj\Debug\net5.0-windows\ref\OtwieraczPlikow.dll
+C:\Users\student.KIOLAB.000\Source\Repos\OtwieraczPlikow\OtwieraczPlikow\obj\Debug\net5.0-windows\OtwieraczPlikow.pdb
+C:\Users\student.KIOLAB.000\Source\Repos\OtwieraczPlikow\OtwieraczPlikow\obj\Debug\net5.0-windows\OtwieraczPlikow.genruntimeconfig.cache
+C:\Users\student.KIOLAB.000\Source\Repos\OtwieraczPlikow\OtwieraczPlikow\obj\Debug\net5.0-windows\dodawacz.g.cs
+E:\OtwieraczPlikow\bin\Debug\net5.0-windows\OtwieraczPlikow.exe
+E:\OtwieraczPlikow\bin\Debug\net5.0-windows\OtwieraczPlikow.deps.json
+E:\OtwieraczPlikow\bin\Debug\net5.0-windows\OtwieraczPlikow.runtimeconfig.json
+E:\OtwieraczPlikow\bin\Debug\net5.0-windows\OtwieraczPlikow.runtimeconfig.dev.json
+E:\OtwieraczPlikow\bin\Debug\net5.0-windows\OtwieraczPlikow.dll
+E:\OtwieraczPlikow\bin\Debug\net5.0-windows\ref\OtwieraczPlikow.dll
+E:\OtwieraczPlikow\bin\Debug\net5.0-windows\OtwieraczPlikow.pdb
+E:\OtwieraczPlikow\obj\Debug\net5.0-windows\OtwieraczPlikow.csproj.AssemblyReference.cache
+E:\OtwieraczPlikow\obj\Debug\net5.0-windows\dodawacz.g.cs
+E:\OtwieraczPlikow\obj\Debug\net5.0-windows\MainWindow.g.cs
+E:\OtwieraczPlikow\obj\Debug\net5.0-windows\App.g.cs
+E:\OtwieraczPlikow\obj\Debug\net5.0-windows\OtwieraczPlikow_MarkupCompile.cache
+E:\OtwieraczPlikow\obj\Debug\net5.0-windows\OtwieraczPlikow_MarkupCompile.lref
+E:\OtwieraczPlikow\obj\Debug\net5.0-windows\dodawacz.baml
+E:\OtwieraczPlikow\obj\Debug\net5.0-windows\MainWindow.baml
+E:\OtwieraczPlikow\obj\Debug\net5.0-windows\OtwieraczPlikow.g.resources
+E:\OtwieraczPlikow\obj\Debug\net5.0-windows\OtwieraczPlikow.GeneratedMSBuildEditorConfig.editorconfig
+E:\OtwieraczPlikow\obj\Debug\net5.0-windows\OtwieraczPlikow.AssemblyInfoInputs.cache
+E:\OtwieraczPlikow\obj\Debug\net5.0-windows\OtwieraczPlikow.AssemblyInfo.cs
+E:\OtwieraczPlikow\obj\Debug\net5.0-windows\OtwieraczPlikow.csproj.CoreCompileInputs.cache
+E:\OtwieraczPlikow\obj\Debug\net5.0-windows\OtwieraczPlikow.dll
+E:\OtwieraczPlikow\obj\Debug\net5.0-windows\ref\OtwieraczPlikow.dll
+E:\OtwieraczPlikow\obj\Debug\net5.0-windows\OtwieraczPlikow.pdb
+E:\OtwieraczPlikow\obj\Debug\net5.0-windows\OtwieraczPlikow.genruntimeconfig.cache
+C:\Users\Uczeń\Desktop\wykresy RLC\OtwieraczPlikow\obj\Debug\net5.0-windows\OtwieraczPlikow.dll
+C:\Users\Uczeń\Desktop\wykresy RLC\OtwieraczPlikow\obj\Debug\net5.0-windows\ref\OtwieraczPlikow.dll
+C:\Users\Uczeń\Desktop\wykresy RLC\OtwieraczPlikow\obj\Debug\net5.0-windows\OtwieraczPlikow.pdb
+C:\Users\Uczeń\Desktop\wykresy RLC\OtwieraczPlikow\bin\Debug\net5.0-windows\OtwieraczPlikow.exe
+C:\Users\Uczeń\Desktop\wykresy RLC\OtwieraczPlikow\bin\Debug\net5.0-windows\OtwieraczPlikow.deps.json
+C:\Users\Uczeń\Desktop\wykresy RLC\OtwieraczPlikow\bin\Debug\net5.0-windows\OtwieraczPlikow.runtimeconfig.json
+C:\Users\Uczeń\Desktop\wykresy RLC\OtwieraczPlikow\bin\Debug\net5.0-windows\OtwieraczPlikow.runtimeconfig.dev.json
+C:\Users\Uczeń\Desktop\wykresy RLC\OtwieraczPlikow\bin\Debug\net5.0-windows\OtwieraczPlikow.dll
+C:\Users\Uczeń\Desktop\wykresy RLC\OtwieraczPlikow\bin\Debug\net5.0-windows\ref\OtwieraczPlikow.dll
+C:\Users\Uczeń\Desktop\wykresy RLC\OtwieraczPlikow\bin\Debug\net5.0-windows\OtwieraczPlikow.pdb
+C:\Users\Uczeń\Desktop\wykresy RLC\OtwieraczPlikow\obj\Debug\net5.0-windows\OtwieraczPlikow.csproj.AssemblyReference.cache
+C:\Users\Uczeń\Desktop\wykresy RLC\OtwieraczPlikow\obj\Debug\net5.0-windows\dodawacz.g.cs
+C:\Users\Uczeń\Desktop\wykresy RLC\OtwieraczPlikow\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Uczeń\Desktop\wykresy RLC\OtwieraczPlikow\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Uczeń\Desktop\wykresy RLC\OtwieraczPlikow\obj\Debug\net5.0-windows\OtwieraczPlikow_MarkupCompile.cache
+C:\Users\Uczeń\Desktop\wykresy RLC\OtwieraczPlikow\obj\Debug\net5.0-windows\OtwieraczPlikow_MarkupCompile.lref
+C:\Users\Uczeń\Desktop\wykresy RLC\OtwieraczPlikow\obj\Debug\net5.0-windows\dodawacz.baml
+C:\Users\Uczeń\Desktop\wykresy RLC\OtwieraczPlikow\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Uczeń\Desktop\wykresy RLC\OtwieraczPlikow\obj\Debug\net5.0-windows\OtwieraczPlikow.g.resources
+C:\Users\Uczeń\Desktop\wykresy RLC\OtwieraczPlikow\obj\Debug\net5.0-windows\OtwieraczPlikow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uczeń\Desktop\wykresy RLC\OtwieraczPlikow\obj\Debug\net5.0-windows\OtwieraczPlikow.AssemblyInfoInputs.cache
+C:\Users\Uczeń\Desktop\wykresy RLC\OtwieraczPlikow\obj\Debug\net5.0-windows\OtwieraczPlikow.AssemblyInfo.cs
+C:\Users\Uczeń\Desktop\wykresy RLC\OtwieraczPlikow\obj\Debug\net5.0-windows\OtwieraczPlikow.csproj.CoreCompileInputs.cache
+C:\Users\Uczeń\Desktop\wykresy RLC\OtwieraczPlikow\obj\Debug\net5.0-windows\OtwieraczPlikow.genruntimeconfig.cache
+C:\Users\SEBASTIAN\Desktop\tree_window\OtwieraczPlikow\bin\Debug\net5.0-windows\OtwieraczPlikow.exe
+C:\Users\SEBASTIAN\Desktop\tree_window\OtwieraczPlikow\bin\Debug\net5.0-windows\OtwieraczPlikow.deps.json
+C:\Users\SEBASTIAN\Desktop\tree_window\OtwieraczPlikow\bin\Debug\net5.0-windows\OtwieraczPlikow.runtimeconfig.json
+C:\Users\SEBASTIAN\Desktop\tree_window\OtwieraczPlikow\bin\Debug\net5.0-windows\OtwieraczPlikow.runtimeconfig.dev.json
+C:\Users\SEBASTIAN\Desktop\tree_window\OtwieraczPlikow\bin\Debug\net5.0-windows\OtwieraczPlikow.dll
+C:\Users\SEBASTIAN\Desktop\tree_window\OtwieraczPlikow\bin\Debug\net5.0-windows\OtwieraczPlikow.pdb
+C:\Users\SEBASTIAN\Desktop\tree_window\OtwieraczPlikow\obj\Debug\net5.0-windows\OtwieraczPlikow.csproj.AssemblyReference.cache
+C:\Users\SEBASTIAN\Desktop\tree_window\OtwieraczPlikow\obj\Debug\net5.0-windows\dodawacz.g.cs
+C:\Users\SEBASTIAN\Desktop\tree_window\OtwieraczPlikow\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\SEBASTIAN\Desktop\tree_window\OtwieraczPlikow\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\SEBASTIAN\Desktop\tree_window\OtwieraczPlikow\obj\Debug\net5.0-windows\OtwieraczPlikow_MarkupCompile.cache
+C:\Users\SEBASTIAN\Desktop\tree_window\OtwieraczPlikow\obj\Debug\net5.0-windows\OtwieraczPlikow_MarkupCompile.lref
+C:\Users\SEBASTIAN\Desktop\tree_window\OtwieraczPlikow\obj\Debug\net5.0-windows\dodawacz.baml
+C:\Users\SEBASTIAN\Desktop\tree_window\OtwieraczPlikow\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\SEBASTIAN\Desktop\tree_window\OtwieraczPlikow\obj\Debug\net5.0-windows\OtwieraczPlikow.g.resources
+C:\Users\SEBASTIAN\Desktop\tree_window\OtwieraczPlikow\obj\Debug\net5.0-windows\OtwieraczPlikow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEBASTIAN\Desktop\tree_window\OtwieraczPlikow\obj\Debug\net5.0-windows\OtwieraczPlikow.AssemblyInfoInputs.cache
+C:\Users\SEBASTIAN\Desktop\tree_window\OtwieraczPlikow\obj\Debug\net5.0-windows\OtwieraczPlikow.AssemblyInfo.cs
+C:\Users\SEBASTIAN\Desktop\tree_window\OtwieraczPlikow\obj\Debug\net5.0-windows\OtwieraczPlikow.csproj.CoreCompileInputs.cache
+C:\Users\SEBASTIAN\Desktop\tree_window\OtwieraczPlikow\obj\Debug\net5.0-windows\OtwieraczPlikow.dll
+C:\Users\SEBASTIAN\Desktop\tree_window\OtwieraczPlikow\obj\Debug\net5.0-windows\refint\OtwieraczPlikow.dll
+C:\Users\SEBASTIAN\Desktop\tree_window\OtwieraczPlikow\obj\Debug\net5.0-windows\OtwieraczPlikow.pdb
+C:\Users\SEBASTIAN\Desktop\tree_window\OtwieraczPlikow\obj\Debug\net5.0-windows\OtwieraczPlikow.genruntimeconfig.cache
+C:\Users\SEBASTIAN\Desktop\tree_window\OtwieraczPlikow\obj\Debug\net5.0-windows\ref\OtwieraczPlikow.dll
